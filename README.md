@@ -13,7 +13,8 @@ Jupyter Notebook as the coding environment for interactive development. Keras li
 **Bhart_Intern-Task-2** <br>
 Titanic Classification: <br>
 Datasets Used: <br>
-Titanic Survivor dataset from Kaggle <br>
+1. Titanic Survivor dataset from Kaggle <br>
+
 Make a system which tells whether the person will be save from sinking. 
 Key Features: Here,Data Preprocessing is done i;e handle missing values, encode categorical features, and prepare the data for machine learning. 
 Model Building: Utilize a Random Forest Classifier & decision tree classifier to train the prediction model on the labeled training dataset. 
