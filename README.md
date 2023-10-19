@@ -1,7 +1,7 @@
 # Bharat_Intern_Projects
 Internship projects for the role of Data Science Intern from Bharat Intern. Here in performed end to end Data Science project on different datasets. <br>
 
-Bharat-Intern_Task-1 <br>
+**Bharat-Intern_Task-1** <br>
 📈 Stock Price Prediction with LSTM 🚀 <br>
 Datasets Used: <br>
 1. Googel Stock Prediction from Kaggle <br>
@@ -10,7 +10,7 @@ In this project, I had the exciting opportunity to dive into the world of stock 
 Technologies Used for this project, I primarily utilized the following tools and technologies: Python for data preprocessing, manipulation, visualization, and model implementation. 
 Jupyter Notebook as the coding environment for interactive development. Keras library to build and train the LSTM model.
 
-Bhart_Intern-Task-2 <br>
+**Bhart_Intern-Task-2** <br>
 Titanic Classification: <br>
 Datasets Used: <br>
 Titanic Survivor dataset from Kaggle <br>
