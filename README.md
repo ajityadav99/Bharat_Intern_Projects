@@ -1,7 +1,7 @@
 # Bharat_Intern_Projects
 Internship projects for the role of Data Science Intern from Bharat Intern. Here in performed end to end Data Science project on different datasets. <br>
 
-#**Bharat-Intern_Task-1** <br>
+**Bharat-Intern_Task-1** <br>
 📈 Stock Price Prediction with LSTM 🚀 <br>
 Datasets Used: <br>
 1. Googel Stock Prediction from Kaggle <br>
